@@ -63,7 +63,7 @@ Task management application built with MERN stack.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/sumitvishnu10
-* LinkedIn: linkedin.com/in/sumit-vishnu-m
+* LinkedIn: https://linkedin.com/in/sumit-vishnu-m
 * Portfolio: https://sumit-portfolio-beige-ten.vercel.app/
 
 ---
